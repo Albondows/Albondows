@@ -23,7 +23,7 @@ Other users that make plugins/commands for ClassiCube.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Albondows&layout=compact&theme=dracula)](https://github.com/Albondows)
 
-[![C#](https://raw.githubusercontent.com/Albondows/Albondows/main/icons/C%23.png)](https://github.com/Albondows)
+[![C#](https://raw.githubusercontent.com/Albondows/Albondows/main/C%23.png)](https://github.com/Albondows)
 
 ## My Trophies.
 
